@@ -1,0 +1,6 @@
+site_name: Safari Wild Ride
+theme: minty
+nav:
+  - Home: index.md
+  - Staff:
+    - Resources: staff/resources.md
